@@ -1,0 +1,26 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Udagram"
+    },
+    {
+        "ParameterKey": "WebserverImageAMI",
+        "ParameterValue": "ami-00ddb0e5626798373"
+    },
+    {
+        "ParameterKey": "WebserverGroupMinSize",
+        "ParameterValue": "2"
+    },
+    {
+        "ParameterKey": "WebserverGroupMaxSize",
+        "ParameterValue": "6"
+    },
+    {
+        "ParameterKey": "WebserverGroupDesiredSize",
+        "ParameterValue": "4"
+    },
+    {
+        "ParameterKey": "KeyPairName",
+        "ParameterValue": "Udagram-key"
+    }
+]
