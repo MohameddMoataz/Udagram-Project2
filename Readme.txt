@@ -1,1 +1,1 @@
-LB link: http://udagr-webap-15agotqi73stx-8115111.us-east-1.elb.amazonaws.com/
+An AWS CloudFormation script for creating a best practice infrastructure for Udapoeple's application.
